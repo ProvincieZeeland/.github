@@ -1,1 +1,1 @@
-Provincie Zeeland
+Open Source Program Office Provincie Zeeland
