@@ -3,7 +3,7 @@ Thanks for helping make our code repositories safe for everyone.
 
 ## Reporting Security Issues
 
-If you believe you have found a security vulnerability in any GitHub-owned repository, please report it to us through coordinated disclosure.
+If you believe you have found a security vulnerability in any of our code repositories, please report it to us through coordinated disclosure.
 
 **Please do not report security vulnerabilities through public GitHub issues, discussions, or pull requests.**
 
